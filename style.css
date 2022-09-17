@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: system-ui;
+    color: green;
+    size: 5em;
+}
+
+p {
+    font-family: system-ui;
+    color: green;
+    size: 3em;
+}
